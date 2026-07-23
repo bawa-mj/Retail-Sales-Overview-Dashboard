@@ -10,7 +10,7 @@ An interactive, data-driven Power BI solution designed to track, analyze, and op
 ## 📁 Repository Structure
 The repository contains the core components of the Power BI solution:
 *   **`retail_sales_dashboard.pbix`** — The production-ready Power BI desktop file containing pre-built DAX measures, a star-schema data model (Date Table + Fact Table), and visualization canvases.
-*   **`data/retail_sales_raw.xlsx`** — Raw source dataset used to build and test the dashboard.
+*   **`Dataset/retail_sales_raw.xlsx`** — Raw source dataset used to build and test the dashboard.
 *   **`DataModel/`** — Schema definitions including the DateTable, relationships, and calculated columns (Region, Month, Quarter).
 *   **`Measures/`** — Documented DAX measures (Total Revenue, MoM Growth %, Average Order Value, etc.).
 
@@ -27,7 +27,7 @@ The repository contains the core components of the Power BI solution:
 
 ## 📸 Dashboard Screenshot & Preview
 ### 🎛️ Retail Sales Overview
-![Retail Sales Overview Dashboard](https://raw.githubusercontent.com/YOUR-USERNAME/retail-sales-dashboard/main/dashboard-screenshot.png)
+![Retail Sales Overview Dashboard]([https://raw.githubusercontent.com/YOUR-USERNAME/retail-sales-dashboard/main/dashboard-screenshot.png](https://github.com/bawa-mj/Retail-Sales-Overview-Dashboard/blob/main/Retail%20Sale%20Overview-Dashboard.png))
 
 ## 📊 Data Cleaning Highlights (Power Query)
 *   Fixed inconsistent category casing and payment method naming
