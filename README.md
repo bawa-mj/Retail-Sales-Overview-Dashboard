@@ -27,7 +27,7 @@ The repository contains the core components of the Power BI solution:
 
 ## 📸 Dashboard Screenshot & Preview
 ### 🎛️ Retail Sales Overview
-![Retail Sales Overview Dashboard](https://raw.githubusercontent.com/YOUR-USERNAME/retail-sales-dashboard/main/dashboard-screenshot.png](https://github.com/bawa-mj/Retail-Sales-Overview-Dashboard/blob/main/Retail%20Sale%20Overview-Dashboard.png)](https://github.com/bawa-mj/Retail-Sales-Overview-Dashboard/blob/main/Retail%20Sale%20Overview-Dashboard.png)](https://github.com/bawa-mj/Retail-Sales-Overview-Dashboard/blob/main/Retail%20Sale%20Overview-Dashboard.png))
+![Retail Sales Overview Dashboard](https://raw.githubusercontent.com/YOUR-USERNAME/retail-sales-dashboard/main/dashboard-screenshot.png](https://github.com/bawa-mj/Retail-Sales-Overview-Dashboard/blob/main/Retail%20Sale%20Overview-Dashboard.png))]
 
 ## 📊 Data Cleaning Highlights (Power Query)
 *   Fixed inconsistent category casing and payment method naming
